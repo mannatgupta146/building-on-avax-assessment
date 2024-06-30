@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/myContract.sol": "BloggingApp"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/myContract.sol": {
+			"keccak256": "0x8ed0d5d4b8db9d0e29c10b91879a3c7aada61674bdd7d6264d39d40f62bdb111",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://d15e37aff79979fddb8e4b0c9b9a62ae03a713f27b270b6becb1025ff60dcc1f",
+				"dweb:/ipfs/QmPrHyRgK9AYn9iTMACuRLYbMdhLhTveVgvCs87zvzSB8Q"
+			]
+		}
+	},
+	"version": 1
+}
