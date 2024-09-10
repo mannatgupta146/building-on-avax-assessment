@@ -6,6 +6,11 @@ This Solidity program is a comprehensive demonstration of an ERC-20 token with a
 
 The `DegenToken` smart contract is an ERC-20 compliant token designed to enhance blockchain gaming by introducing a token reward system. Players can earn tokens, transfer them, and redeem them for in-game items. The contract includes a game mechanic where players can bet on the outcome of a random number generator. It leverages OpenZeppelin libraries for security and functionality, ensuring robust and secure token operations.
 
+## Video Tutorial
+
+For a detailed walkthrough of the code and how the project works, check out the [Loom video](https://www.loom.com/share/3d2681e821c9460a9923daf6c7002529?sid=aa14a225-88c2-48fe-be61-6b4e0a992d12).
+
+
 ### Key Features
 
 1. **Minting New Tokens**: Only the contract owner can mint new tokens and distribute them as rewards to players.
